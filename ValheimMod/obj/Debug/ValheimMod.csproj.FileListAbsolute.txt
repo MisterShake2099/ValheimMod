@@ -1,0 +1,12 @@
+D:\Workspace\ValheimModDev\ValheimMod\ValheimMod\bin\Debug\ValheimMod.dll
+D:\Workspace\ValheimModDev\ValheimMod\ValheimMod\bin\Debug\ValheimMod.pdb
+D:\Workspace\ValheimModDev\ValheimMod\ValheimMod\bin\Debug\0Harmony.dll
+D:\Workspace\ValheimModDev\ValheimMod\ValheimMod\bin\Debug\assembly_valheim.dll
+D:\Workspace\ValheimModDev\ValheimMod\ValheimMod\bin\Debug\BepInEx.dll
+D:\Workspace\ValheimModDev\ValheimMod\ValheimMod\bin\Debug\UnityEngine.CoreModule.dll
+D:\Workspace\ValheimModDev\ValheimMod\ValheimMod\bin\Debug\UnityEngine.dll
+D:\Workspace\ValheimModDev\ValheimMod\ValheimMod\obj\Debug\ValheimMod.csprojAssemblyReference.cache
+D:\Workspace\ValheimModDev\ValheimMod\ValheimMod\obj\Debug\ValheimMod.csproj.CoreCompileInputs.cache
+D:\Workspace\ValheimModDev\ValheimMod\ValheimMod\obj\Debug\ValheimMod.csproj.CopyComplete
+D:\Workspace\ValheimModDev\ValheimMod\ValheimMod\obj\Debug\ValheimMod.dll
+D:\Workspace\ValheimModDev\ValheimMod\ValheimMod\obj\Debug\ValheimMod.pdb
