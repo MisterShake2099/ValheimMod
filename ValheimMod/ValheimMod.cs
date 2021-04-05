@@ -16,6 +16,19 @@ namespace ValheimMod
             harmony.PatchAll();
         }
 
+        [HarmonyPatch(typeof(Character), nameof(Character.GetRunSpeedFactor))]
+        class Speed_Patch
+        {
+            static void Prefix(ref float )
+        }
+
+
+
+
+
+
+
+        /*
         [HarmonyPatch(typeof(Character), nameof(Character.Jump))]
         class Jump_Patch
         {
@@ -26,5 +39,6 @@ namespace ValheimMod
                 Debug.Log($"Modified jump force: {___m_jumpForce}");
             }
         }
+        */
     }
 }
